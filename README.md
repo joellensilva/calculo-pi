@@ -7,4 +7,5 @@
 - Joellen Silva
 - Josenilton Galdino
 - Matheus Ferreira
-<img width="760" alt="Captura de Tela 2024-07-08 às 19 29 30" src="https://github.com/joellensilva/calculo-pi/assets/99025532/3d29022d-253b-4022-9584-bb9e09edebb7">
+
+<img width="709" alt="Captura de Tela 2024-07-08 às 19 30 19" src="https://github.com/joellensilva/calculo-pi/assets/99025532/d80bb3d8-9ec4-4993-92c1-3f9c95f6da9f">
